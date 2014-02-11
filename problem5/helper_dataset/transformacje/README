@@ -1,0 +1,7 @@
+michiel2karaman - plik figuren.r zawiera struktury krystaliczne, które musimy odnieść do karamana. Ze względu na to, że wiele struktur kryst = 1 proteina, to transformacja musiała być przeprowadzona w tą stronę
+
+tmp_michiel_proteins - lista protein z podzbioru wyciągniętego z figuren.r bez obróbki
+
+karaman_protein_crystals_only.txt - struktury krystaliczne z karamana po transformacji kaset mappingiem ( dużo NONE'ów - np. AAK1 )
+
+karaman_protein_names_only.txt - surowe nazwy protein z karamana
